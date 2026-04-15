@@ -1,1 +1,34 @@
-
+[
+  {
+    "label": "RECYCLING",
+    "id": "csXNX42qC8s"
+  },
+  {
+    "label": "LIQUID FOOD",
+    "id": "csXNX49Ttwr"
+  },
+  {
+    "label": "DRY FOOD",
+    "id": "csXNX422kqj"
+  },
+  {
+    "label": "DRINKS",
+    "id": "csXNX4KkjXj"
+  },
+  {
+    "label": "BLEACH",
+    "id": "csXPHLQD8YG"
+  },
+  {
+    "label": "SHARPS",
+    "id": "csXPHKR3LZ6"
+  },
+  {
+    "label": "TRASH",
+    "id": "csXPHLQD8YD"
+  },
+  {
+    "label": "AEROSOLS",
+    "id": "csXPHLQD8YH"
+  }
+]
